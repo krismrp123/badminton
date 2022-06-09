@@ -1,4 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1654718304/ei/AKugYvfjEqSx2roP4Mek-As/ip/180.242.59.23/id/3qt9Khz7f44.1/source/yt_live_broadcast/requiressl/yes/tx/24190961/txs/24190960%2C24190961/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/spc/4ocVCy6q28IFSrjOtfZLlAH4QI0u3WO8P4wsR8COV9p0/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgP-11Bbl6BCL3wEYSKEYZfTbzleaoDQx2gbM4hIAoKlUCIF97Xo5-qph_cbetS9xVjmIozSG1qX-Z-vfZOGRsEb5Z/file/index.m3u8
+https://bcovlive-a.akamaihd.net/81662517c7df42848bfa48818a71f1f4/ap-southeast-1/6271486521001/profile_1/chunklist.m3u8?hdnea=st=1654746899~exp=9007200909487890~acl=/81662517c7df42848bfa48818a71f1f4/*/profile_1/chunklist.m3u8*~hmac=a091fab2d605dd5f274462ce118b131e3a9f78a6754c1180cdb9cc3bc1487e78
+#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
+l
