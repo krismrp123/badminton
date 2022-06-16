@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=360p,RESOLUTION=1280x720
-https://bcovlive-a.akamaihd.net/81662517c7df42848bfa48818a71f1f4/ap-southeast-1/6271486521001/playlist.m3u8
+https://bcovlive-a.akamaihd.net/81662517c7df42848bfa48818a71f1f4/ap-southeast-1/6271486521001/profile_2/chunklist.m3u8?hdnea=st=1655375390~exp=9007200910116381~acl=/81662517c7df42848bfa48818a71f1f4/*/profile_2/chunklist.m3u8*~hmac=1a7bf80654ddd62c431aad61f440edaecb020349250b2becd2c6e3a04e11740c
