@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://live17-nlxjdhtocy.zhibo.tv/8live/s_2708482_800.m3u8?k=8762bef86f370af6a695a14344953106&t=62a7f60f&m=1
+https://bcovlive-a.akamaihd.net/8dbe9fecaaf3445da9dc68101293d99c/ap-southeast-1/6271486521001/profile_2/chunklist.m3u8?hdnea=st=1655259178~exp=9007200910000169~acl=/8dbe9fecaaf3445da9dc68101293d99c/*/profile_2/chunklist.m3u8*~hmac=5661e181952b3bd732c294b63ed772357092b7f91be184bebc1f9eac0754cdb9
