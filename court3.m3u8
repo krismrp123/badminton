@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=360p,RESOLUTION=1280x360
-https://bcovlive-a.akamaihd.net/facbf6cdf3f647d48de51fda6e7d2d4b/ap-southeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1657590720~exp=9007200912331711~acl=/facbf6cdf3f647d48de51fda6e7d2d4b/*/profile_0/chunklist.m3u8*~hmac=291739fd141e53ff767b9fbe5d14c015504ed327c53150c521da0aaa5fa53b41
+https://invidious.sethforprivacy.com/api/manifest/hls_variant/expire/1657610047/ei/38rMYuHOD5WD8gOq17jYDQ/ip/176.9.47.66/id/mqClEn2epEk.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/de/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAPv-BBQdCiYe6RuSb6FjmpxpCWuRPoa2XrNZ7JOVXN5oAiEApCH2R1T3OjpHVpOafR4RBQFO9PLI6sSuMBixaom1zbU%3D/file/index.m3u8?local=true
