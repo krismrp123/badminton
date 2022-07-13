@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000
-https://live17-nlxjdhtocy.zhibo.tv/8live/s_2708483_800.m3u8?k=70bc4912ff95e4449ce38f9628614708&t=62cd1591
+https://invidious.namazso.eu/api/manifest/hls_playlist/expire/1657695913/ei/SRrOYpCZGJ7Vx_APhbSc2AM/ip/23.88.113.147/id/sWtj4rhVMDQ.1/itag/94/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D135/hls_chunk_host/rr3---sn-4g5lznle.c.youtube.com/playlist_duration/30/manifest_duration/30/gcr/de/vprv/1/playlist_type/DVR/initcwndbps/501250/mh/L4/mm/32/mn/sn-4g5lznle/ms/su/mv/m/mvi/3/pl/24/sc/yes/dover/11/pacing/0/keepalive/yes/fexp/24001373,24007246/mt/1657674033/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,gcr,vprv,playlist_type/sig/AOq0QJ8wRAIgUPzmHoGfyVCU-o2PTvzxpHdobTsbAS51JA-P-GK9NkACIEevrMyz7vHLPLZd-UnPexvMc3UoJjFKSCRanJ6aE4lx/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl,sc/lsig/AG3C_xAwRQIhALwbdhBnhqt3ZpPO6ufZ27OHiVhByz7JC-OZHYn2XRriAiAd6UNZN6FW3ZkmuF5wod_XVMkbbeSWAXFBJ25xwavVKQ%3D%3D/playlist/index.m3u8?local=true
