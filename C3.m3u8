@@ -1,4 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000
-https://live17-nlxjdhtocy.zhibo.tv/8live/s_2708483_800.m3u8?k=e1e718efcdd324ee8d11d6160f1906f6&t=62ce1c72
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 6.0.1; vivo 1606) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.105 Mobile Safari/537.36"
+#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
+https://live17-nlxjdhtocy.zhibo.tv/8live/s_2708483_800.m3u8?k=70bc4912ff95e4449ce38f9628614708&t=62cd1591
