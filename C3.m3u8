@@ -1,5 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 6.0.1; vivo 1606) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.105 Mobile Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://live17-nlxjdhtocy.zhibo.tv/8live/s_2708483_800.m3u8?k=70bc4912ff95e4449ce38f9628614708&t=62cd1591
+https://dno-fifajs-native-major.youku.com/fifa_jieshuo/Btv-Voice03_sjb480.m3u8?auth_key=1689244971-0-0-3e278456b65e21fbbb2c4913e89f680b&title=2022%E7%BE%BD%E6%AF%9B%E7%90%83%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%85%AC%E5%BC%80%E8%B5%9B7%E6%9C%8813%E6%97%A53%E5%8F%B7%E5%9C%BA%E5%9C%B0%E5%85%A8%E6%99%AF%E6%92%AD%E5%87%BA&ver=1.0.0&uid=0&log_type=log_type&aliyun_uuid=EbXwGU%2F%2Ba30CATNR39l5mlMh&ccode=live05020201&cdnQuality=480p&quality=3&multi_raw_stream=Btv-Voice03&rid=200000008F6CDFF4C959A5558F7071D519591C5400000000
+#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
+l
+
+#https://bcovlive-a.akamaihd.net/8dbe9fecaaf3445da9dc68101293d99c/ap-southeast-1/6271486521001/profile_1/chunklist.m3u8?hdnea=st=1656659339~exp=9007200911400330~acl=/8dbe9fecaaf3445da9dc68101293d99c/*/profile_1/chunklist.m3u8*~hmac=b3c7d0c2047876980c885944f0cf76d3f71641f163cf9a77724c2b96526898ef
