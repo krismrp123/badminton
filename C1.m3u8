@@ -1,8 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=4292608,CODECS="avc1.640028,mp4a.40.2",RESOLUTION=1920x1080
-https://bcovlive-a.akamaihd.net/926df14993e54e4a9de9a001e17e5cd8/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1657868355~exp=9007200912609346~acl=/926df14993e54e4a9de9a001e17e5cd8/*/profile_0/chunklist.m3u8*~hmac=d40d4f60d30464e89679eeb702e6bc9e53aa895525fcdde869a45ed6c6cd2d54
+https://bcovlive-a.akamaihd.net/88ed787ac7a249bf9a4135156d9f1781/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1657947624~exp=9007200912688615~acl=/88ed787ac7a249bf9a4135156d9f1781/*/profile_0/chunklist.m3u8*~hmac=211bef256e8de9b8a67289bc2c1d093ea4577da50674e12b5be45f77e8fe6bc4
 #EXT-X-STREAM-INF:BANDWIDTH=1732608,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=1280x720
-https://bcovlive-a.akamaihd.net/926df14993e54e4a9de9a001e17e5cd8/ap-northeast-1/6271486521001/profile_1/chunklist.m3u8?hdnea=st=1657868355~exp=9007200912609346~acl=/926df14993e54e4a9de9a001e17e5cd8/*/profile_1/chunklist.m3u8*~hmac=4f35793cc4bc2889e787f0aa7adde9152386b6dfee9135916dad2a2fd3f0aae7
+https://bcovlive-a.akamaihd.net/88ed787ac7a249bf9a4135156d9f1781/ap-northeast-1/6271486521001/profile_1/chunklist.m3u8?hdnea=st=1657947624~exp=9007200912688615~acl=/88ed787ac7a249bf9a4135156d9f1781/*/profile_1/chunklist.m3u8*~hmac=211bef256e8de9b8a67289bc2c1d093ea4577da50674e12b5be45f77e8fe6bc4
 #EXT-X-STREAM-INF:BANDWIDTH=1015808,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=960x540
-https://bcovlive-a.akamaihd.net/926df14993e54e4a9de9a001e17e5cd8/ap-northeast-1/6271486521001/profile_2/chunklist.m3u8?hdnea=st=1657868355~exp=9007200912609346~acl=/926df14993e54e4a9de9a001e17e5cd8/*/profile_2/chunklist.m3u8*~hmac=feb759f6d93efe6f8e21d7811a8f110338e93f35f1bcc1ac03d95c98b330a934
+https://bcovlive-a.akamaihd.net/88ed787ac7a249bf9a4135156d9f1781/ap-northeast-1/6271486521001/profile_2/chunklist.m3u8?hdnea=st=1657947624~exp=9007200912688615~acl=/88ed787ac7a249bf9a4135156d9f1781/*/profile_2/chunklist.m3u8*~hmac=211bef256e8de9b8a67289bc2c1d093ea4577da50674e12b5be45f77e8fe6bc4
